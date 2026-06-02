@@ -8,12 +8,10 @@ My work bridges rigorous mathematical theory and enterprise-scale software engin
 
 ### 🚀 Quick Summary
 - 🎓 **Education:** University of Georgia (Honors Program, Data Science & Mathematics, GPA 4.0)
-- 💼 **Current Role:** AI Engineer Intern at FPT Corporation (Healthcare Domain)
+- 💼 **Current Role:** AI Engineer Intern in Healthcare Domain
 - 🏫 **Leadership:** Project Manager & Lead ML Engineer at AI@UGA
 - 📊 **Mentorship:** Equifax Fortune 500 Data & Analytics Cohort (E-LAG)
 - 🎯 **Looking For:** Fall 2026 / Summer 2027 Machine Learning & Data Science Internships (US)
-- 🌐 **Visa Status:** F-1 Student (CPT/OPT eligible)
-
 ---
 
 ### 🛠️ Technical Tech Stack
